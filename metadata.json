@@ -1,0 +1,6 @@
+{
+  "name": "Arcana Daily - Tarot & Journal",
+  "description": "Daily single-draw Tarot ritual with rich educational symbolism breakdowns, contemplative guidance, and a private daily reflection journal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
